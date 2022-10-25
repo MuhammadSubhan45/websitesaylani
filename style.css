@@ -1,0 +1,241 @@
+.top{
+    background-color: rgb(240, 239, 239);
+    height: 30px ;
+    margin: auto auto auto auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small; font-weight: bold;
+   
+    padding: 0px 20px 0px 35px;
+    line-gap-override: auto;
+    color: rgb(93, 92, 92);    
+}
+
+.info{
+    padding: 7px;
+    margin-left: 70px;
+   
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper{
+    width: 1170px; margin: auto;
+}
+
+
+
+.nav li{
+    list-style: none;
+    display: inline-block;
+    
+    margin: 0px 0px 0px 12px;
+    padding: 30px 10px ;
+    color: rgb(64, 63, 63);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+
+.logo img{
+    float: left;
+    width: 300px;
+    height: auto;
+}
+
+
+.heading{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    font-size: larger; 
+    color: rgb(54, 54, 54);
+}
+
+.flood{
+    color: rgb(32, 209, 32);
+}
+
+.rashon{
+    color: rgb(9, 61, 120);
+}
+
+.para{
+    color: rgb(54, 53, 53);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+
+}
+
+button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium; color: rgb(64, 63, 63); width: 130px ; height: 50px;
+}
+
+.head{
+    margin-left: 105px;
+    font-size: large;
+}
+
+.newimg img{
+    position: absolute;
+    top: 140px; left: 700px; right: 0px ;
+    height: 520px;
+}
+
+.green{
+    padding: 50px 30px 50px 30px ;
+    background-color: rgb(214, 254, 214);
+    height: 50px ; width: 1170px; margin: auto; border-radius: 20px; 
+}
+
+.donate {
+   
+    font-size: larger;
+    color: rgb(64, 63, 63);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute; bottom: 20px; top: 715px; left: 100px;
+    
+    
+}
+
+.quick{
+    color: rgb(21, 87, 209);
+    font-size: 15px;
+}
+
+.help{
+    font-size: 30px;
+    
+}
+
+.elec {
+    display: inline-block;
+    position: absolute; bottom: 20px; top: 765px; left: 400px ; right: 20px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(51, 49, 49);  font-size: large;
+    background-color: rgb(48, 47, 47); height: 40px; width: 300px;
+    border-radius: 10px; text-align: center; color: rgb(254, 254, 254);
+    
+
+}
+.fluid{
+    display: inline-block;
+    position: absolute; bottom: 20px; top: 765px; left: 740px ; right: 20px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(51, 49, 49);  font-size: large;
+    background-color: rgb(255, 255, 255); height: 40px; width: 150px;
+    border-radius: 10px; text-align: center; color: rgb(39, 38, 38);
+}
+.food{
+    display: inline-block;
+    position: absolute; bottom: 20px; top: 765px; left: 910px ; right: 20px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(51, 49, 49); font-size: large; 
+    background-color: rgb(255, 255, 255); height: 40px; width: 100px;
+    border-radius: 10px; text-align: center; color: rgb(39, 38, 38); 
+}
+
+.donatee{
+    display: inline-block;
+    position: absolute; bottom: 20px; top: 765px; left: 1050px ; right: 20px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(51, 49, 49);  font-size: large; background-color: rgb(72, 210, 67); height: 40px; width: 100px;
+    border-radius: 10px; text-align: center; color: white;  
+}
+
+.bigpic{
+    height: 600px; width: 1200px; margin: auto auto auto 75px; border: 1px; border-radius: 10px; border-color: rgb(17, 201, 17);
+
+
+}
+
+.what{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(52, 51, 51); text-align: center;
+}
+
+.wel{
+    background-color: rgb(205, 255, 205); width: 150px; margin-left: 95px; 
+    height: 150px; text-align: center; border-radius: 10px;
+}
+
+.wel{
+    display: inline-block;
+}
+
+.welimg {
+    position: absolute;
+    top: 1605px; left: 130px; right: 0px ;
+}
+
+.medimg {
+    position: absolute;
+    top: 1615px; left: 385px; right: 0px ;
+}
+
+.sading{
+    position: absolute;
+    top: 1620px; left: 630px; right: 0px ;
+}
+
+
+.roing{
+    position: absolute;
+    top: 1615px; left: 700; right: 155px ;
+}
+
+
+.eduing{
+    position: absolute;
+    top: 1620px; left: 875px; right: 0px ;
+}
+
+.back{
+    background-color: rgb(72, 71, 71);
+    width: 1348px;  height: 340px; padding: 0px;margin: 0px;
+ }
+
+
+.png{
+    height: 80px; margin: 80px 0px 0px 90px;
+}
+
+.lii li{
+    list-style: none; color: white; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 500px; padding: 35px 1px 1px 1px; 
+   
+}
+
+.ab{
+    font-weight: bolder; font-size: x-large;
+}
+
+.liii li{
+    list-style: none; color: rgb(255, 255, 255); font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 35px 1px 1px 1px;
+}
+
+.fulli{
+    position: absolute; bottom: 0px; left: 820px; top: 1767px;
+}
+
+.logoo img{
+    height: 90px; position: absolute; bottom: 0px; top: 1850px; left: 40px;
+}
+
+.stamp img{
+    height: 190px; position: absolute; bottom: 0px; top: 1850px; right: 40px;
+}
+
+.line{
+    width: 1000px; margin: auto; line-height: 1pc;
+}
+
+
+.end{
+    margin: auto; color: white; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; padding: 6px; 
+ }
